@@ -1,0 +1,4 @@
+#!/bin/bash
+#comparison worlds from c - php
+
+echo "Hello, World!"
