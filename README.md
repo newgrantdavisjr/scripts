@@ -1,0 +1,2 @@
+# scripts
+Learning the shell
